@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Variables aleatorias discretas}{3}{0}{1}
+\beamer@sectionintoc {2}{Tipos de variables}{26}{0}{2}
+\beamer@sectionintoc {3}{Medibilidad y variabilidad}{49}{0}{3}
+\beamer@sectionintoc {4}{Tablas de frecuencias}{51}{0}{4}
+\beamer@sectionintoc {5}{Medidas de tendencia central}{115}{0}{5}
